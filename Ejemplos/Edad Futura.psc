@@ -6,7 +6,7 @@ Algoritmo Edad_Futura
 	Escribir "Dime tu edad";
 	Leer edad;
 	
-	Escribir edad +10;
+	Escribir "Tu edad dentro de 10 años sera", " ", edad +10;
 	
 	
 	
