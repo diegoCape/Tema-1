@@ -4,5 +4,3 @@
 
 * Ejemplo
 
-* Ejercicio 1
-
