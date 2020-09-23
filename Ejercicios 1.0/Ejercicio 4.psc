@@ -15,14 +15,11 @@ Algoritmo Ejercicio_4
 		Escribir "El Primer Número es el Mayor";
 	SiNo
 		Si (num2 > num1) y (num2 > num3) Entonces
-			Escribir "El Segundo Número es el Mayor";
+		Escribir "El Segundo Número es el Mayor";
+	SiNo
+		Escribir "El Tercer Número es el Mayor";
 		Fin Si
-		
-		Si (num3 > num1) y (num3 > num2) Entonces
-			Escribir "El Tercer Número es el Mayor";
-		FinSi
-	Fin Si
-	
+	FinSi
 	
 	
 FinAlgoritmo
