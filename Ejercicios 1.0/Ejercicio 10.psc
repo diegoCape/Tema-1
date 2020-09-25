@@ -1,4 +1,4 @@
-Algoritmo Ejercicio_9
+Algoritmo Ejercicio_10
 	
 	Definir num Como Entero;
 	
@@ -12,11 +12,13 @@ Algoritmo Ejercicio_9
 			Escribir "El Número es Impar";
 		SiNo
 			Si (num == 0) Entonces
-				Escribir "El Número no es Par ni Impar";
+				Mientras num <= 0 Hacer
+					Escribir "Reintroduzca el Número";
+					Leer num;
+				Fin Mientras
 				Fin Si
 		Fin Si
 	Fin Si
-	
 	
 	
 FinAlgoritmo
