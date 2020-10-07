@@ -6,7 +6,6 @@ Algoritmo Ejercicio_5
 	Leer num;
 	
 	
-	
 	Escribir num*0;
 	Escribir num*1;
 	Escribir num*2;
